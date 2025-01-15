@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmndslyr
-- 👀 I’m interested in Programming, especially in Software Development
-- 🌱 I’m currently learning Python, Java, Android Development
+- 👀 I’m interested in Programming, especially in Software and Web Development
+- 🌱 I’m currently learning Python, Java, Android Development, Web Development
 - 💞️ I’m looking to collaborate on some small-scale projects
 - 📫 How to reach me: here in github
 - 😄 Pronouns: He/Him
