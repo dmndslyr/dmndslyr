@@ -1,5 +1,5 @@
 #Portfolio:
-[https://edrienejay](https://edrienejay-portfolio.vercel.app/)
+[https://edrienejay-portfolio.vercel.app/](https://edrienejay-portfolio.vercel.app/)
 
 # 💫 About Me:
 I'm a BS Computer Engineering Graduate, specializing in System and Network Administration
